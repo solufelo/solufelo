@@ -64,11 +64,10 @@ Currently building **[StudyOS](https://github.com/solufelo/solomon-olufelo-proje
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Activity
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=solufelo&theme=dark&hide_border=true" height="150" alt="streak stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=solufelo&layout=compact&theme=dark&hide_border=true" height="150" alt="languages graph" />
 </div>
 
 ---
