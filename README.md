@@ -66,14 +66,9 @@ Currently building **[StudyOS](https://github.com/solufelo/solomon-olufelo-proje
 
 ## 📊 GitHub Statistics
 
-<!-- 
-If standard stats are not loading, these can be replaced with basic badges or removed.
-Using a simpler configuration to ensure compatibility.
--->
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=solufelo&show_icons=true&theme=dark" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=solufelo&layout=compact&theme=dark" height="150" alt="languages graph" />
+  <img src="https://streak-stats.demolab.com/?user=solufelo&theme=dark&hide_border=true" height="150" alt="streak stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=solufelo&layout=compact&theme=dark&hide_border=true" height="150" alt="languages graph" />
 </div>
 
 ---
