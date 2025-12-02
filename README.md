@@ -66,18 +66,23 @@ Currently building **[StudyOS](https://github.com/solufelo/solomon-olufelo-proje
 
 ## 📊 GitHub Statistics
 
+<!-- 
+If standard stats are not loading, these can be replaced with basic badges or removed.
+Using a simpler configuration to ensure compatibility.
+-->
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=solufelo&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=solufelo&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=solufelo&show_icons=true&theme=dark" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=solufelo&layout=compact&theme=dark" height="150" alt="languages graph" />
 </div>
 
 ---
 
 ## 📫 Connect With Me
 
-*   **Portfolio:** [solomon-olufelo.dev](https://solomon-olufelo.dev)
-*   **LinkedIn:** [linkedin.com/in/solomon-olufelo](https://linkedin.com/in/solomon-olufelo)
-*   **Email:** [oluf9170@mylaurier.ca](mailto:oluf9170@mylaurier.ca)
+*   **Portfolio:** [captainsolo.ca](https://www.captainsolo.ca/)
+*   **LinkedIn:** [linkedin.com/in/solomonolufelo](https://www.linkedin.com/in/solomonolufelo/)
+*   **Email:** [solomonolufelo@Outlook.com](mailto:solomonolufelo@Outlook.com)
 
 <!--
 **solufelo/solufelo** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
