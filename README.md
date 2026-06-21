@@ -1,6 +1,6 @@
 # Hi there, I'm Solomon Olufelo. 👋
 
-### 👨‍💻 Full-Stack Developer | 3D Automation Specialist | Creative Technologist
+### 👨‍💻 Full-Stack Developer | Creative Technologist
 
 I am a Computer Science student and developer who bridges the gap between **technical rigor** and **creative expression**. My journey is defined by a disciplined, gamified approach to mastering complex systems—transforming challenges into production-ready solutions.
 
