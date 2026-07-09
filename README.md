@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img width="500" height="500" alt="logo-helmet-TRANSPARENT_" src="https://github.com/user-attachments/assets/30a5bf5d-2482-484c-b3d3-b69a916ec540" />
+  <img width="55" height="55" alt="logo-helmet-TRANSPARENT_" src="https://github.com/user-attachments/assets/30a5bf5d-2482-484c-b3d3-b69a916ec540" />
 
   <h1>🌌 CAPTAIN SOLO // HQ</h1>
   <p><strong>Creative Technologist • Systems Programmer • Motion Designer</strong></p>
