@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/solufelo/captainsoloHQ/main/public/images/favicon.ico" width="80" height="80" alt="Captain Solo Logo">
+  <img src="./public/images/logo-helmet-TRANSPARENT_.png" width="80" height="80" alt="Captain Solo Helmet Logo">
   <h1>🌌 CAPTAIN SOLO // HQ</h1>
   <p><strong>Creative Technologist • Systems Programmer • Motion Designer</strong></p>
   <p><em>Where C++20 memory allocators meet React Three Fiber immersion.</em></p>
