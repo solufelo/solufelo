@@ -46,7 +46,7 @@ A 2D game engine in C++20 with SDL2, built for Windows and the browser (WebAssem
 
 #### 🦅 Laurier Game Day • [Case Study](https://captainsolo.ca/work/laurier-gameday) • [Helmet Shuffle Repo](https://github.com/solufelo/golden-hawks-helmet-shuffle) • [Live Demo](https://solufelo.github.io/golden-hawks-helmet-shuffle/)
 Videoboard and broadcast graphics for Laurier Golden Hawks football: the 2026 Senior Day opener, jumbotron games, 3D helmet renders and the live-stream scorebug.
-- **Helmet Shuffle add-on:** a Blender tool that bakes a whole shell-game routine in under 0.2 s. Three ProRes 422 HQ variants were rendered for the Oct 17, 2026 Senior Day game.
+- **Helmet Shuffle add-on:** a Blender tool that bakes a whole shell-game routine in under a quarter of a second. Three ProRes 422 HQ variants were rendered for the Oct 17, 2026 Senior Day game.
 - **Readable type:** title and banner text tilt to face the camera, so their lines don't foreshorten.
 - **Game-engine export:** per-frame unit quaternions [w, x, y, z], velocity vectors and Y-up positions as JSON.
 
